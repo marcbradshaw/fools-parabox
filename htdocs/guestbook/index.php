@@ -1,0 +1,135 @@
+   <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+   <html>
+   <head>
+   <title>Welcome to the FoolsParadox guestbook</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   </head>
+   <body bgcolor="#555555" link="#0000FF" vlink="#0000FF" alink="#FF0000" topmargin="0" marginheight="0" style="font-family:verdana">
+   <center>
+
+   <font size="6" color="#FFFF00"><b>Welcome to the FoolsParadox guestbook</b></font><br>
+   <font size="2" color="#FFFF00">(:: <b><a href="http://foolsparadox.com"><font color="#FFFF00">Home</font></a></b> ::)</font><br><br>
+   <table width="600" cellpadding="0" cellspacing="1" border="0">
+   <tr bgcolor="#000000">
+   <td>
+      <table width="100%" cellpadding="4" cellspacing="1" border="0">
+
+      <tr>
+	    <td bgcolor="#D3B68E" colspan="3" width="100%">
+           <font size="2" color="#ffffff"><b>Signing the guestbook is currently disabled, sorry.</font></b>
+        </td>
+	  </tr>
+<tr>
+			           <td bgcolor="#E4E4E4" align="center" valign="top" width="15">
+
+					     <font size="2">1</font>
+					   </td>
+					   <td bgcolor="#EDEEE8" width="570">
+					   <table border="0" width="100%">
+					   <tr>
+					    <td>
+					     <font size="1">April 20, 2007 - 08:14 PM</font><br>
+						 <font size="2"><b>Etece</b></font>
+
+						</td>
+					<td align="right" valign="top"></td></tr></table><br><table border="0" width="100%">
+			         <tr><td width="5">&nbsp;</td><td>
+			         <font size="2" face="arial" size="2">A great mind that will be surely missed. I hope you've found peace and happiness 
+Cos, where ever you are.</font>
+					 </td></tr>
+                     </table>
+			        </td><td valign="top" bgcolor="#E4E4E4" align="center" width="15">
+			         <a href="/guestbook/index.php?do=del&id=20070420201447&page=1">
+
+					 <img src="imgs/del.gif" alt="Delete entry # 1" border=0 align="center"></a>
+					 </td>
+					 </tr><tr>
+			           <td bgcolor="#FFEFDF" align="center" valign="top" width="15">
+					     <font size="2">2</font>
+					   </td>
+					   <td bgcolor="#FFF8F0" width="570">
+					   <table border="0" width="100%">
+
+					   <tr>
+					    <td>
+					     <font size="1">March 27, 2007 - 10:13 AM</font><br>
+						 <font size="2"><b>Epona</b></font>
+						</td>
+					<td align="right" valign="top"><a href="mailto:catherine.hammacott@ntlworld.com"><img src="imgs/email.gif" 
+border="0" alt="catherine.hammacott@ntlworld.com"></a></td></tr></table><br><table border="0" width="100%">
+			         <tr><td width="5">&nbsp;</td><td>
+			         <font size="2" face="arial" size="2">the stars are shining and i'm sure that Coz is laughing at us now. may the deities 
+of the Otherworld welcome Coz to their home.</font>
+
+					 </td></tr>
+                     </table>
+			        </td><td valign="top" bgcolor="#FFEFDF" align="center" width="15">
+			         <a href="/guestbook/index.php?do=del&id=20070327101322&page=1">
+					 <img src="imgs/del.gif" alt="Delete entry # 2" border=0 align="center"></a>
+					 </td>
+					 </tr><tr>
+			           <td bgcolor="#E4E4E4" align="center" valign="top" width="15">
+					     <font size="2">3</font>
+
+					   </td>
+					   <td bgcolor="#EDEEE8" width="570">
+					   <table border="0" width="100%">
+					   <tr>
+					    <td>
+					     <font size="1">March 07, 2007 - 07:13 AM</font><br>
+						 <font size="2"><b>herneoakshield</b></font>
+						</td>
+
+					<td align="right" valign="top"> <a href="http://www.freewebs.com/herneoakshield/" target="_blank"><img 
+src="imgs/homepage.gif" border="0" alt="http://www.freewebs.com/herneoakshield/"></a></td></tr></table><br><table border="0" width="100%">
+			         <tr><td width="5">&nbsp;</td><td>
+			         <font size="2" face="arial" size="2">Rest well Kev, you are missed by many, though your life is celebrated by us as 
+well.</font>
+					 </td></tr>
+                     </table>
+			        </td><td valign="top" bgcolor="#E4E4E4" align="center" width="15">
+			         <a href="/guestbook/index.php?do=del&id=20070307071348&page=1">
+					 <img src="imgs/del.gif" alt="Delete entry # 3" border=0 align="center"></a>
+
+					 </td>
+					 </tr><tr>
+			           <td bgcolor="#FFEFDF" align="center" valign="top" width="15">
+					     <font size="2">4</font>
+					   </td>
+					   <td bgcolor="#FFF8F0" width="570">
+					   <table border="0" width="100%">
+					   <tr>
+
+					    <td>
+					     <font size="1">March 01, 2007 - 05:00 PM</font><br>
+						 <font size="2"><b>Mike/Cern</b></font>
+						</td>
+					<td align="right" valign="top"> <a href="http://paganandchristianmoot.co.uk/pcvbforum" target="_blank"><img 
+src="imgs/homepage.gif" border="0" alt="http://paganandchristianmoot.co.uk/pcvbforum"></a></td></tr></table><br><table border="0" width="100%">
+			         <tr><td width="5">&nbsp;</td><td>
+			         <font size="2" face="arial" size="2">The gods are being entertained by the Cosmic Fool. You will remain in our hearts 
+and minds Kev. That has to be the best kind of immortality. :)</font>
+
+					 </td></tr>
+                     </table>
+			        </td><td valign="top" bgcolor="#FFEFDF" align="center" width="15">
+			         <a href="/guestbook/index.php?do=del&id=20070301170021&page=1">
+					 <img src="imgs/del.gif" alt="Delete entry # 4" border=0 align="center"></a>
+					 </td>
+					 </tr><tr><td colspan="3" bgcolor="#D3B68E" align="center" width="600"><font size="2">Page #1 of 
+1</font></td></tr>        </table>        
+		</td>
+
+		</tr>
+		</table>
+		<br>
+		<!-- Please don't remove this copyright notice.-->
+		<a href="http://www.promosi-web.com/script/guestbook/" title="Ardguest 1.8" target="_blank"><font size="2" color="#FFFF00">PHP 
+Guestbook</font></a> &middot; <a href="http://www.9sites.net" title="9sites Web Directory, submit your site for FREE!" target="_blank"><font size="2" 
+color="#FFFF00">Web Directory</font></a></font>
+		<!-- Thank you -->
+   </center>
+
+   </body>
+   </html>
+
