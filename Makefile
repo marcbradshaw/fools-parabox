@@ -4,7 +4,7 @@ configinstall:
 	mkdir -p /var/log/apache2/foolsparadox.com
 	chown www-data:www-data /var/log/apache2/foolsparadox.com 
 	cp conf/apache/foolsparadox.com.conf /etc/apache2/sites-available/
-	a2ensite foolwparadox.com.conf
+	a2ensite foolsparadox.com.conf
 
 reload:
 	service apache2 reload
