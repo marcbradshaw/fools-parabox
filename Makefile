@@ -16,5 +16,10 @@ content:
 	(find /home/web/foolsparadox.com -type f -print0|xargs -0 chmod 640)
 	(find /home/web/foolsparadox.com -type d -print0|xargs -0 chmod 750)
 
+prodhook:
+	echo '#!/bin/bash' > .git/hooks/post-merge
+	echo 'hooks/post-merge' >> .git/hooks/post-merge
+	chmod 755 .git/hooks/post-merge
+
 install: configinstall content reload
 
