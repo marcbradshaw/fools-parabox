@@ -1,0 +1,9 @@
+[
+    {
+        "https://gitlab.com/marcbradshaw/Fools-Paradox refs/heads/master" : {
+            "cwd" : "/root/git/Fools-Paradox",
+            "cmd" : "deploy_manager_deploy"
+        }
+    }
+]
+

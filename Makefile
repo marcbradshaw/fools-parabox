@@ -20,6 +20,8 @@ prodhook:
 	echo '#!/bin/bash' > .git/hooks/post-merge
 	echo 'hooks/post-merge' >> .git/hooks/post-merge
 	chmod 755 .git/hooks/post-merge
+	mkdir -p /etc/twofiftyeight/deploy_manager
+	cp conf/deploy.json /etc/twofiftyeight/deploy_manager/foolsparadox.json
 
 install: configinstall content reload
 
