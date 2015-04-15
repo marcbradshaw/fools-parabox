@@ -1,4 +1,4 @@
 #!/bin/bash
 
-make install
+make install | slacktell --channel=#deployment --pretext="Fools Paradox Deployment"
 
